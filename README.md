@@ -12,7 +12,7 @@
 <br>
 
 <details>
-  <summary>:trophy: Github Stats</summary>
+  <summary> <h2> :trophy: Github Stats </h2> </summary>
   <table width="100%" style="width: 100%;">
     <tbody>
       <tr>
@@ -51,7 +51,7 @@
 
 
 <details>
-  <summary> :mag: Currently learning </summary>
+  <summary> <h2> :mag: Currently learning </h2> </summary>
   
   <div align="center">
   
@@ -73,7 +73,9 @@
 
 
 <details>
-  <summary> :star: Prefered Tools/Langs </summary>
+  <summary> 
+    <h2> :star: Prefered Tools/Langs </h2> 
+  </summary>
   <div align="center">
   
   ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -128,16 +130,58 @@
 <br>
 
 
-<p align="left"> <a href="https://twitter.com/ubmagh" target="blank"><img src="https://img.shields.io/twitter/follow/ubmagh?logo=twitter&style=for-the-badge" alt="ubmagh" /></a> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ubmagh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ubmagh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayoub-maghdaoui/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayoub-maghdaoui/" height="30" width="40" /></a>
-<a href="https://discord.gg/ubmagh#9511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ubmagh#9511" height="30" width="40" /></a> 
-<a href="https://www.codewars.com/users/scoma" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" alt="ubmagh#9511" height="30" width="40" /></a>
-</p>
+<details>
+  <summary> <h2> :link: Reach me out </h2> </summary>
 
+<div align="center">
 
+  
+  <a href="mailto://ubmagh@gmail.com" target="_blank">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
 
+  <a href="https://www.linkedin.com/in/ayoub-maghdaoui/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+  
+  <a href="https://twitter.com/ubmagh" target="blank">
+    <img src="https://img.shields.io/twitter/follow/ubmagh?logo=twitter&style=for-the-badge" alt="ubmagh" />
+  </a> 
 
+  
+  <a href="https://www.codewars.com/users/scoma" target="_blank">
+    <img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey" alt="CodeWars Badge"/>
+  </a>
+  
+  <a href="https://leetcode.com/scoma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode Badge"/>
+  </a>
+  
+  <a href="https://www.hackerrank.com/Scoma" target="_blank">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  
+
+  
+   <div>
+  <a href="http://localhost/my-username_is/ubmagh#9511" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    ubmagh#9511
+  </a>
+  </div>
+
+</div>
+<hr>
+</details>
+
+<div>
+  <p>
+  <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" height="200px">
+  <img src="https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif" height="200px">
+  <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px">
+  </p>
+</div>
+
+<hr>
