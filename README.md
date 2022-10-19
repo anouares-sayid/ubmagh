@@ -12,10 +12,32 @@
 
 <details>
   <summary>:trophy: Github Stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact" alt="ubmagh" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&locale=en" alt="ubmagh" style="margin: 0px auto;" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&" alt="ubmagh" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ubmagh">
+  <table>
+    <tbody>
+      <tr>
+        <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact" alt="ubmagh" />
+        </td>
+        <td>
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&locale=en" alt="ubmagh" style="margin: 0px auto;" />
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&" alt="ubmagh" />
+        </td>
+        <td>
+          <img src="https://github-profile-trophy.vercel.app/?username=ubmagh">
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  
+![Metrics](https://metrics.lecoq.io/ubmagh?template=classic&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Africa%2FCasablanca)     
+
+<hr>
+
+  
 </details>
 
 <br>
