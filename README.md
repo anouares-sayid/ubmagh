@@ -191,17 +191,29 @@
   
   ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=churchill&font=default)
   
-  
-  
-</div>
-</details>
+  ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-<div>
+  <br>
+  
+  ## my contribution graph get eaten by the snake 🐍:
+  <img align='center' src='https://github.com/mayankchaudhary26/mayankchaudhary26/blob/output/github-contribution-grid-snake.gif' width='900"'>
+  
+  <div>
   <p>
   <img src="https://media.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif" height="200px">
   <img src="https://media.giphy.com/media/3oKIPlCroSFHV8uoko/giphy.gif" height="200px">
   <img src="https://media.giphy.com/media/gU25raLP4pUu4/giphy.gif" height="200px">
   </p>
+    
+    ## dino gif:
+  <img align="center" src="https://github.com/saadeghi/saadeghi/blob/master/dino.gif" />
+  <br>
 </div>
+  <br>
+</div>
+  <hr>
+</details>
 
-<hr>
+<p align="center">
+<img align="center" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+</p>
