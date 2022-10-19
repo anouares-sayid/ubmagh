@@ -13,22 +13,28 @@
 
 <details>
   <summary>:trophy: Github Stats</summary>
-  <table>
+  <table width="100%" style="width: 100%;">
     <tbody>
       <tr>
         <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact" alt="ubmagh" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ubmagh" />
         </td>
         <td>
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&locale=en" alt="ubmagh" style="margin: 0px auto;" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&theme=tokyonight&locale=en" alt="ubmagh" style="margin: 0px auto;" />
         </td>
       </tr>
       <tr>
-        <td>
-          <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&" alt="ubmagh" />
+        <td colspan="2">
+          <div align="center" width="100%" style="width=100%">
+            <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&show_icons=true&theme=tokyonight" alt="ubmagh" />
+          </div>
         </td>
-        <td>
-          <img src="https://github-profile-trophy.vercel.app/?username=ubmagh">
+      </tr>
+      <tr>
+        <td colspan="2">
+          <div align="center" width="100%" style="width=100%">
+            <img src="https://github-profile-trophy.vercel.app/?username=ubmagh&show_icons=true&theme=tokyonight">
+          </div>
         </td>
       </tr>
     </tbody>
