@@ -13,6 +13,13 @@
 
 <details>
   <summary> <h2> :trophy: Github Stats </h2> </summary>
+  
+  <a href="https://profile-summary-for-github.com/user/ubmagh" target="_blank">
+    👉 Profile summary
+  </a>
+  
+  <br>
+  
   <table width="100%" style="width: 100%;">
     <tbody>
       <tr>
@@ -132,7 +139,7 @@
 
 
 <details>
-  <summary> <h2> :link: Reach me out </h2> </summary>
+  <summary> <h2> :link: Reach me </h2> </summary>
 
 <div align="center">
 
@@ -173,7 +180,20 @@
   </div>
 
 </div>
-<hr>
+</details>
+
+<br>
+
+<details>
+  <summary> <h2> 🦆 More fun stuff </h2> </summary>
+
+<div align="center">
+  
+  ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=default&animation=default&layout=churchill&font=default)
+  
+  
+  
+</div>
 </details>
 
 <div>
