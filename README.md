@@ -1,11 +1,30 @@
+<img align="center" width="100%" src="./cover.png" alt="ubmagh" />
 <img align="right" src="https://komarev.com/ghpvc/?username=ubmagh&label=Profile%20views&color=blueviolet&style=flat-plastic" alt="ubmagh" />
-<h1 align="center">Hi 👋, I'm Ayoub !</h1>
-<h3 align="center"> A night coder </h3>
-<h4 align="center"> ☁ Cloud computing & 🤖BigData engineering student </h4>
+
+
+> I like coding by night
+
+<p align="center">
+<img  style="margin: 0 auto; display:block;" width="45%" alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" />
+</p>
 
 <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<details>
+  <summary>:trophy: Github Stats</summary>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact" alt="ubmagh" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&locale=en" alt="ubmagh" style="margin: 0px auto;" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&" alt="ubmagh" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ubmagh">
+</details>
+
+<br>
+
+
+
+
+
+
 
 
 <p align="left"> <a href="https://twitter.com/ubmagh" target="blank"><img src="https://img.shields.io/twitter/follow/ubmagh?logo=twitter&style=for-the-badge" alt="ubmagh" /></a> </p>
@@ -19,9 +38,5 @@
 </p>
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubmagh&show_icons=true&locale=en&layout=compact" alt="ubmagh" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubmagh&show_icons=true&locale=en" alt="ubmagh" style="margin: 0px auto;" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubmagh&" alt="ubmagh" />
 
